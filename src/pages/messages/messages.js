@@ -1,14 +1,14 @@
 import React from "react";
 import styles from "./styles.js";
 
-function SalesPage() {
+function MessagesPage() {
   return (
     <div style={styles.UserList}>
       <div style={styles.homeWidgets}>
-        <h5>Waiting for update from Accounts</h5>
+        <h4>No Message at the moment</h4>
       </div>
     </div>
   );
 }
 
-export default SalesPage;
+export default MessagesPage;

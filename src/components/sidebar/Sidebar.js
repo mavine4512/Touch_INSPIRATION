@@ -2,23 +2,19 @@ import React, { useState } from "react";
 import styles from "./styles.js";
 import {
   ChatBubbleOutline,
-  DynamicFeed,
-  LineStyle,
   MailOutline,
   PermIdentity,
   Timeline,
   TrendingUp,
-  Storefront,
-  AttachMoney,
-  BarChart,
+  Home,
 } from "@material-ui/icons";
-import { Link, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import { adminMenu } from "../../constants/Menu";
 
 const menuItems = [
   {
     name: "Home",
-    icon: <LineStyle />,
+    icon: <Home />,
     path: adminMenu.home,
   },
   {

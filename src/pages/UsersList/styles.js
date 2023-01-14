@@ -26,4 +26,11 @@ export default {
     color: "red",
     cursor: "pointer",
   },
+  actionItems: {
+    display: "flex",
+    alignItems: "center",
+  },
+  loaderDiv: {
+    margin: "10em",
+  },
 };
