@@ -4,7 +4,9 @@ import styles from "./styles.js";
 function AnalyticsPage() {
   return (
     <div style={styles.UserList}>
-      <h1>Analytics</h1>
+      <div style={styles.homeWidgets}>
+        <h4>Wait for end Year for an Update</h4>
+      </div>
     </div>
   );
 }

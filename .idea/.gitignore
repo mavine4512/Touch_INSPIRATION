@@ -4,9 +4,16 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 
-# node.js
-node_modules/
-npm-debug.log
-yarn-error.log
-yarn.lock
-package-lock.json
+# dependencies
+/node_modules
+
+# production
+/build
+
+# IDE
+.idea/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+yarn.lock*
+package-lock.json*
