@@ -1,63 +1,50 @@
 export const UserData = [
   {
-    name: 'Jan',
+    name: "Jan",
     "Performents rate": 40,
-
   },
-   {
-    name: 'Feb',
+  {
+    name: "Feb",
     "Performents rate": 30,
-
   },
-   {
-    name: 'Mar',
+  {
+    name: "Mar",
     "Performents rate": 50,
-
   },
-   {
-    name: 'Apr',
+  {
+    name: "Apr",
     "Performents rate": 45,
-
   },
-   {
-    name: 'May',
+  {
+    name: "May",
     "Performents rate": 35,
-
   },
-   {
-    name: 'Jun',
+  {
+    name: "Jun",
     "Performents rate": 20,
-
   },
-   {
-    name: 'Jul',
+  {
+    name: "Jul",
     "Performents rate": 30,
-
   },
-   {
-    name: 'Agu',
+  {
+    name: "Agu",
     "Performents rate": 45,
-
   },
-   {
-    name: 'Sep',
+  {
+    name: "Sep",
     "Performents rate": 25,
-
   },
-   {
-    name: 'Oct',
+  {
+    name: "Oct",
     "Performents rate": 60,
-
   },
-   {
-    name: 'Nov',
+  {
+    name: "Nov",
     "Performents rate": 100,
-
   },
-   {
-    name: 'Dec',
+  {
+    name: "Dec",
     "Performents rate": 75,
-
   },
-
 ];

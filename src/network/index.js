@@ -1,9 +1,7 @@
+import { BaseUrl as baseUrl, headers } from "./baseUrl";
 
-import {BaseUrl as baseUrl,headers} from './baseUrl'
- 
 const fetchUser = () => {
-    return fetch(baseUrl,{headers})
-}
+  return fetch(baseUrl, { headers });
+};
 
-
-export { fetchUser }
+export { fetchUser };
