@@ -60,7 +60,6 @@ export default {
     height: "30px",
     borderBottom: "1px solid gray",
   },
-
   userUpdateRight: {
     display: "flex",
     flexDirection: "column",
